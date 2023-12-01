@@ -9,3 +9,6 @@ Provided is the code for the final simulation project. Balking is included.
 -GS_4_pumps.txt-----------------------------------------------Our predictions for 4 pumps 
 
 -GasStation_FINAL.ipynb--------------------------------------Our code that simulates the problem </n>
+
+See below for the flow of the events (Original image from MSDS 460 material)
+<img width="464" alt="MSDS460_Final_Graph" src="https://github.com/noraleilaa/460_FINAL/assets/146657057/d6072141-2088-42eb-826c-d6c7c2abf295">
