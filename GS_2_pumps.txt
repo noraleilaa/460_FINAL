@@ -1,0 +1,931 @@
+Customer 1: Arrived at time 0, Tank Percentage: 8.203807977710886%
+Customer 1: Seized gas pump at time 0
+Customer 1: Arrived at time 1.760755998459599, Tank Percentage: 38.692442316640694%
+Customer 1: Seized gas pump at time 1.760755998459599
+Customer 2: Arrived at time 3.800733578507238, Tank Percentage: 27.903812650783966%
+Customer 3: Arrived at time 5.814067633369769, Tank Percentage: 45.76021076476503%
+Customer 4: Arrived at time 7.237474525161934, Tank Percentage: 30.050978786696337%
+Customer 1: Released from gas pump at time 7.89151176679553
+Customer 1: Finished at time 7.89151176679553
+Customer 2: Seized gas pump at time 7.89151176679553
+Customer 5: Arrived at time 8.906333657165215, Tank Percentage: 15.52552406381849%
+Customer 1: Released from gas pump at time 9.179619202228912
+Customer 1: Finished at time 9.179619202228912
+Customer 2: Arrived at time 9.179619202228912, Tank Percentage: 39.23505866655405%
+Customer 3: Seized gas pump at time 9.179619202228912
+Customer 3: Released from gas pump at time 14.60359812575241
+Customer 3: Finished at time 14.60359812575241
+Customer 4: Seized gas pump at time 14.60359812575241
+Customer 6: Arrived at time 15.07437882607359, Tank Percentage: 36.55373802313238%
+Customer 2: Released from gas pump at time 15.101130501717133
+Customer 2: Finished at time 15.101130501717133
+Customer 5: Seized gas pump at time 15.101130501717133
+Customer 7: Arrived at time 16.053446745203846, Tank Percentage: 18.17022309147131%
+Customer 8: Arrived at time 18.793704097771844, Tank Percentage: 23.208185678202938%
+Customer 9: Arrived at time 18.87309864761841, Tank Percentage: 38.52319449960329%
+Customer 4: Released from gas pump at time 21.598500247082775
+Customer 4: Finished at time 21.598500247082775
+Customer 2: Seized gas pump at time 21.598500247082775
+Customer 5: Released from gas pump at time 23.548578095335284
+Customer 5: Finished at time 23.548578095335284
+Customer 6: Seized gas pump at time 23.548578095335284
+Customer 2: Released from gas pump at time 27.67499438042737
+Customer 2: Finished at time 27.67499438042737
+Customer 3: Arrived at time 27.67499438042737, Tank Percentage: 39.76588901641407%
+Customer 7: Seized gas pump at time 27.67499438042737
+Customer 6: Released from gas pump at time 29.893204293022045
+Customer 6: Finished at time 29.893204293022045
+Customer 8: Seized gas pump at time 29.893204293022045
+Customer 10: Arrived at time 31.79283118725001, Tank Percentage: 4.731712594878973%
+Customer 7: Released from gas pump at time 35.857972071280244
+Customer 7: Finished at time 35.857972071280244
+Customer 9: Seized gas pump at time 35.857972071280244
+Customer 8: Released from gas pump at time 37.57238572520175
+Customer 8: Finished at time 37.57238572520175
+Customer 3: Seized gas pump at time 37.57238572520175
+Customer 9: Released from gas pump at time 42.00565262131992
+Customer 9: Finished at time 42.00565262131992
+Customer 10: Seized gas pump at time 42.00565262131992
+Customer 11: Arrived at time 42.03682239534686, Tank Percentage: 17.348209812399425%
+Customer 12: Arrived at time 43.464683941967266, Tank Percentage: 15.005622502903748%
+Customer 3: Released from gas pump at time 43.59579682356034
+Customer 3: Finished at time 43.59579682356034
+Customer 4: Arrived at time 43.59579682356034, Tank Percentage: 1.348916787728549%
+Customer 11: Seized gas pump at time 43.59579682356034
+Customer 10: Released from gas pump at time 51.53248136183202
+Customer 10: Finished at time 51.53248136183202
+Customer 12: Seized gas pump at time 51.53248136183202
+Customer 11: Released from gas pump at time 51.8609758423204
+Customer 11: Finished at time 51.8609758423204
+Customer 4: Seized gas pump at time 51.8609758423204
+Customer 13: Arrived at time 51.88063499584452, Tank Percentage: 15.208374472038855%
+Customer 14: Arrived at time 56.19645323856167, Tank Percentage: 25.97753422964326%
+Customer 15: Arrived at time 57.43979331043542, Tank Percentage: 40.07873471645502%
+Customer 12: Released from gas pump at time 60.03191911154164
+Customer 12: Finished at time 60.03191911154164
+Customer 13: Seized gas pump at time 60.03191911154164
+Customer 4: Released from gas pump at time 61.72608416354754
+Customer 4: Finished at time 61.72608416354754
+Customer 5: Arrived at time 61.72608416354754, Tank Percentage: 6.325915336699111%
+Customer 14: Seized gas pump at time 61.72608416354754
+Customer 16: Arrived at time 63.01522091065318, Tank Percentage: 9.47229528604624%
+Customer 13: Released from gas pump at time 68.51108166433775
+Customer 13: Finished at time 68.51108166433775
+Customer 15: Seized gas pump at time 68.51108166433775
+Customer 14: Released from gas pump at time 69.12833074058321
+Customer 14: Finished at time 69.12833074058321
+Customer 5: Seized gas pump at time 69.12833074058321
+Customer 17: Arrived at time 70.68098867049719, Tank Percentage: 15.56584083923479%
+Customer 15: Released from gas pump at time 74.50320819269226
+Customer 15: Finished at time 74.50320819269226
+Customer 16: Seized gas pump at time 74.50320819269226
+Customer 18: Arrived at time 76.28032637779808, Tank Percentage: 34.841792427177296%
+Customer 5: Released from gas pump at time 78.4957392069133
+Customer 5: Finished at time 78.4957392069133
+Customer 6: Arrived at time 78.4957392069133, Tank Percentage: 45.90583608324877%
+Customer 17: Seized gas pump at time 78.4957392069133
+Customer 19: Arrived at time 80.01036939563122, Tank Percentage: 42.35130534280407%
+Customer 20: Arrived at time 82.69614626430439, Tank Percentage: 3.1624463375997336%
+Customer 16: Released from gas pump at time 83.55597866408763
+Customer 16: Finished at time 83.55597866408763
+Customer 18: Seized gas pump at time 83.55597866408763
+Customer 17: Released from gas pump at time 86.93915512298982
+Customer 17: Finished at time 86.93915512298982
+Customer 6: Seized gas pump at time 86.93915512298982
+Customer 18: Released from gas pump at time 90.0717994213699
+Customer 18: Finished at time 90.0717994213699
+Customer 19: Seized gas pump at time 90.0717994213699
+Customer 6: Released from gas pump at time 92.34857151466494
+Customer 6: Finished at time 92.34857151466494
+Customer 7: Arrived at time 92.34857151466494, Tank Percentage: 48.63350213843521%
+Customer 20: Seized gas pump at time 92.34857151466494
+Customer 19: Released from gas pump at time 95.8366688870895
+Customer 19: Finished at time 95.8366688870895
+Customer 7: Seized gas pump at time 95.8366688870895
+Customer 21: Arrived at time 99.23081371653019, Tank Percentage: 33.83133017503439%
+Customer 22: Arrived at time 100.12155035638638, Tank Percentage: 4.241433306799508%
+Customer 7: Released from gas pump at time 100.97331867324598
+Customer 7: Finished at time 100.97331867324598
+Customer 8: Arrived at time 100.97331867324598, Tank Percentage: 25.144561044859103%
+Customer 21: Seized gas pump at time 100.97331867324598
+Customer 20: Released from gas pump at time 102.03232688090496
+Customer 20: Finished at time 102.03232688090496
+Customer 22: Seized gas pump at time 102.03232688090496
+Customer 23: Arrived at time 102.05157584212336, Tank Percentage: 39.3704483557928%
+Customer 21: Released from gas pump at time 107.59018565574254
+Customer 21: Finished at time 107.59018565574254
+Customer 8: Seized gas pump at time 107.59018565574254
+Customer 24: Arrived at time 111.26772208829287, Tank Percentage: 20.958544905453873%
+Customer 22: Released from gas pump at time 111.60818355022501
+Customer 22: Finished at time 111.60818355022501
+Customer 23: Seized gas pump at time 111.60818355022501
+Customer 25: Arrived at time 111.66612998969482, Tank Percentage: 46.0075064269822%
+Customer 8: Released from gas pump at time 115.07572955125663
+Customer 8: Finished at time 115.07572955125663
+Customer 9: Arrived at time 115.07572955125663, Tank Percentage: 37.26825532363743%
+Customer 24: Seized gas pump at time 115.07572955125663
+Customer 26: Arrived at time 116.0030255694451, Tank Percentage: 33.12798789885086%
+Customer 23: Released from gas pump at time 117.67113871464572
+Customer 23: Finished at time 117.67113871464572
+Customer 25: Seized gas pump at time 117.67113871464572
+Customer 24: Released from gas pump at time 122.97987506071124
+Customer 24: Finished at time 122.97987506071124
+Customer 9: Seized gas pump at time 122.97987506071124
+Customer 27: Arrived at time 123.02094086291582, Tank Percentage: 1.7022026422595427%
+Customer 25: Released from gas pump at time 123.0703880719475
+Customer 25: Finished at time 123.0703880719475
+Customer 26: Seized gas pump at time 123.0703880719475
+Customer 9: Released from gas pump at time 129.2530495283475
+Customer 9: Finished at time 129.2530495283475
+Customer 10: Arrived at time 129.2530495283475, Tank Percentage: 22.811782025441126%
+Customer 27: Seized gas pump at time 129.2530495283475
+Customer 26: Released from gas pump at time 129.7575892820624
+Customer 26: Finished at time 129.7575892820624
+Customer 10: Seized gas pump at time 129.7575892820624
+Customer 28: Arrived at time 134.46069636371143, Tank Percentage: 45.2250878363648%
+Customer 10: Released from gas pump at time 137.4764110795183
+Customer 10: Finished at time 137.4764110795183
+Customer 11: Arrived at time 137.4764110795183, Tank Percentage: 5.5094134408281645%
+Customer 28: Seized gas pump at time 137.4764110795183
+Customer 27: Released from gas pump at time 139.08282926412156
+Customer 27: Finished at time 139.08282926412156
+Customer 11: Seized gas pump at time 139.08282926412156
+Customer 29: Arrived at time 142.6893558624554, Tank Percentage: 29.39407531345215%
+Customer 30: Arrived at time 142.73092183382263, Tank Percentage: 40.56652643737454%
+Customer 28: Released from gas pump at time 142.95390229588182
+Customer 28: Finished at time 142.95390229588182
+Customer 29: Seized gas pump at time 142.95390229588182
+Customer 31: Arrived at time 143.00658832248888, Tank Percentage: 35.26008201476337%
+Customer 32: Arrived at time 145.95868684984586, Tank Percentage: 16.926170458733054%
+Customer 11: Released from gas pump at time 148.53188792003874
+Customer 11: Finished at time 148.53188792003874
+Customer 12: Arrived at time 148.53188792003874, Tank Percentage: 8.38838629933254%
+Customer 30: Seized gas pump at time 148.53188792003874
+Customer 33: Arrived at time 149.4455812239914, Tank Percentage: 22.266080108326985%
+Customer 29: Released from gas pump at time 150.0144947645366
+Customer 29: Finished at time 150.0144947645366
+Customer 31: Seized gas pump at time 150.0144947645366
+Customer 34: Arrived at time 153.29837716106994, Tank Percentage: 5.112668259550657%
+Customer 30: Released from gas pump at time 154.47523527630128
+Customer 30: Finished at time 154.47523527630128
+Customer 32: Seized gas pump at time 154.47523527630128
+Customer 31: Released from gas pump at time 156.48848656306026
+Customer 31: Finished at time 156.48848656306026
+Customer 12: Seized gas pump at time 156.48848656306026
+Customer 35: Arrived at time 156.94075853283692, Tank Percentage: 45.97568077655511%
+Customer 36: Arrived at time 159.4143487169852, Tank Percentage: 38.293703149055474%
+Customer 37: Arrived at time 161.89595498106448, Tank Percentage: 12.149335112537935%
+Customer 32: Released from gas pump at time 162.78261823042797
+Customer 32: Finished at time 162.78261823042797
+Customer 33: Seized gas pump at time 162.78261823042797
+Customer 12: Released from gas pump at time 165.649647933127
+Customer 12: Finished at time 165.649647933127
+Customer 13: Arrived at time 165.649647933127, Tank Percentage: 23.49201576272501%
+Customer 34: Seized gas pump at time 165.649647933127
+Customer 38: Arrived at time 167.75131508667573, Tank Percentage: 36.189593622764654%
+Customer 33: Released from gas pump at time 170.55601021959527
+Customer 33: Finished at time 170.55601021959527
+Customer 35: Seized gas pump at time 170.55601021959527
+Customer 34: Released from gas pump at time 175.13838110717194
+Customer 34: Finished at time 175.13838110717194
+Customer 36: Seized gas pump at time 175.13838110717194
+Customer 35: Released from gas pump at time 175.95844214193974
+Customer 35: Finished at time 175.95844214193974
+Customer 37: Seized gas pump at time 175.95844214193974
+Customer 39: Arrived at time 178.17640624094062, Tank Percentage: 38.762567815327266%
+Customer 36: Released from gas pump at time 181.30901079226638
+Customer 36: Finished at time 181.30901079226638
+Customer 13: Seized gas pump at time 181.30901079226638
+Customer 40: Arrived at time 182.33464727800586, Tank Percentage: 30.10037482424936%
+Customer 37: Released from gas pump at time 184.74350863068594
+Customer 37: Finished at time 184.74350863068594
+Customer 38: Seized gas pump at time 184.74350863068594
+Customer 13: Released from gas pump at time 188.9598092159939
+Customer 13: Finished at time 188.9598092159939
+Customer 14: Arrived at time 188.9598092159939, Tank Percentage: 45.90247913184222%
+Customer 39: Seized gas pump at time 188.9598092159939
+Customer 38: Released from gas pump at time 191.12454926840948
+Customer 38: Finished at time 191.12454926840948
+Customer 40: Seized gas pump at time 191.12454926840948
+Customer 39: Released from gas pump at time 195.08355243446115
+Customer 39: Finished at time 195.08355243446115
+Customer 14: Seized gas pump at time 195.08355243446115
+Customer 40: Released from gas pump at time 198.11451178598455
+Customer 40: Finished at time 198.11451178598455
+Customer 41: Arrived at time 198.51190867308958, Tank Percentage: 35.28093513094039%
+Customer 41: Seized gas pump at time 198.51190867308958
+Customer 42: Arrived at time 200.44618817282813, Tank Percentage: 35.429585789000775%
+Customer 14: Released from gas pump at time 200.49330452127694
+Customer 14: Finished at time 200.49330452127694
+Customer 15: Arrived at time 200.49330452127694, Tank Percentage: 12.462440970182593%
+Customer 42: Seized gas pump at time 200.49330452127694
+Customer 41: Released from gas pump at time 204.98381515999554
+Customer 41: Finished at time 204.98381515999554
+Customer 15: Seized gas pump at time 204.98381515999554
+Customer 43: Arrived at time 206.1199454329418, Tank Percentage: 20.05447745088718%
+Customer 42: Released from gas pump at time 206.95034594237686
+Customer 42: Finished at time 206.95034594237686
+Customer 43: Seized gas pump at time 206.95034594237686
+Customer 44: Arrived at time 213.11171123712938, Tank Percentage: 13.659835533904724%
+Customer 45: Arrived at time 213.34896851304237, Tank Percentage: 14.046657125332906%
+Customer 15: Released from gas pump at time 213.73757106297728
+Customer 15: Finished at time 213.73757106297728
+Customer 16: Arrived at time 213.73757106297728, Tank Percentage: 10.460991166551825%
+Customer 44: Seized gas pump at time 213.73757106297728
+Customer 46: Arrived at time 214.21557489612988, Tank Percentage: 49.57792099406781%
+Customer 43: Released from gas pump at time 214.94489819728813
+Customer 43: Finished at time 214.94489819728813
+Customer 45: Seized gas pump at time 214.94489819728813
+Customer 47: Arrived at time 216.65154726985452, Tank Percentage: 34.45219645633683%
+Customer 48: Arrived at time 220.16954235725765, Tank Percentage: 37.92270242109236%
+Customer 44: Released from gas pump at time 222.37158750958682
+Customer 44: Finished at time 222.37158750958682
+Customer 16: Seized gas pump at time 222.37158750958682
+Customer 45: Released from gas pump at time 223.54023248475482
+Customer 45: Finished at time 223.54023248475482
+Customer 46: Seized gas pump at time 223.54023248475482
+Customer 49: Arrived at time 225.4649330531544, Tank Percentage: 30.63026799695443%
+Customer 46: Released from gas pump at time 228.58244038534804
+Customer 46: Finished at time 228.58244038534804
+Customer 47: Seized gas pump at time 228.58244038534804
+Customer 50: Arrived at time 230.32548517308834, Tank Percentage: 8.177744270427834%
+Customer 16: Released from gas pump at time 231.32548839293165
+Customer 16: Finished at time 231.32548839293165
+Customer 17: Arrived at time 231.32548839293165, Tank Percentage: 31.383526662523543%
+Customer 48: Seized gas pump at time 231.32548839293165
+Customer 51: Arrived at time 232.66998170346656, Tank Percentage: 33.88000847063542%
+Customer 47: Released from gas pump at time 235.13722073971437
+Customer 47: Finished at time 235.13722073971437
+Customer 49: Seized gas pump at time 235.13722073971437
+Customer 48: Released from gas pump at time 237.53321815082242
+Customer 48: Finished at time 237.53321815082242
+Customer 50: Seized gas pump at time 237.53321815082242
+Customer 52: Arrived at time 239.72370647988654, Tank Percentage: 35.23273435051837%
+Customer 49: Released from gas pump at time 242.07419394001892
+Customer 49: Finished at time 242.07419394001892
+Customer 17: Seized gas pump at time 242.07419394001892
+Customer 50: Released from gas pump at time 246.71544372377963
+Customer 50: Finished at time 246.71544372377963
+Customer 51: Seized gas pump at time 246.71544372377963
+Customer 17: Released from gas pump at time 248.93584127376656
+Customer 17: Finished at time 248.93584127376656
+Customer 18: Arrived at time 248.93584127376656, Tank Percentage: 41.73704535266561%
+Customer 52: Seized gas pump at time 248.93584127376656
+Customer 53: Arrived at time 249.81448171402835, Tank Percentage: 34.32745455214166%
+Customer 54: Arrived at time 249.83497596741896, Tank Percentage: 2.1540351283027004%
+Customer 51: Released from gas pump at time 253.32744287671608
+Customer 51: Finished at time 253.32744287671608
+Customer 18: Seized gas pump at time 253.32744287671608
+Customer 52: Released from gas pump at time 255.41256783871472
+Customer 52: Finished at time 255.41256783871472
+Customer 53: Seized gas pump at time 255.41256783871472
+Customer 55: Arrived at time 256.5047978213046, Tank Percentage: 43.782525256925524%
+Customer 56: Arrived at time 256.55080894538503, Tank Percentage: 31.470935595416634%
+Customer 18: Released from gas pump at time 259.1537383414495
+Customer 18: Finished at time 259.1537383414495
+Customer 19: Arrived at time 259.1537383414495, Tank Percentage: 18.03840182384681%
+Customer 54: Seized gas pump at time 259.1537383414495
+Customer 53: Released from gas pump at time 261.97982238350056
+Customer 53: Finished at time 261.97982238350056
+Customer 55: Seized gas pump at time 261.97982238350056
+Customer 57: Arrived at time 262.28953220164726, Tank Percentage: 32.69064314549497%
+Customer 58: Arrived at time 262.37510755097355, Tank Percentage: 8.973327007035776%
+Customer 59: Arrived at time 265.08103502004445, Tank Percentage: 41.313064658212724%
+Customer 55: Released from gas pump at time 267.601569857808
+Customer 55: Finished at time 267.601569857808
+Customer 56: Seized gas pump at time 267.601569857808
+Customer 54: Released from gas pump at time 268.93833482861925
+Customer 54: Finished at time 268.93833482861925
+Customer 19: Seized gas pump at time 268.93833482861925
+Customer 56: Released from gas pump at time 274.45447629826634
+Customer 56: Finished at time 274.45447629826634
+Customer 57: Seized gas pump at time 274.45447629826634
+Customer 19: Released from gas pump at time 277.13449464623454
+Customer 19: Finished at time 277.13449464623454
+Customer 20: Arrived at time 277.13449464623454, Tank Percentage: 3.8693772305958274%
+Customer 58: Seized gas pump at time 277.13449464623454
+Customer 57: Released from gas pump at time 281.18541198371685
+Customer 57: Finished at time 281.18541198371685
+Customer 59: Seized gas pump at time 281.18541198371685
+Customer 60: Arrived at time 282.15518925998407, Tank Percentage: 18.208850182070357%
+Customer 61: Arrived at time 284.2869598935372, Tank Percentage: 46.02181324285945%
+Customer 62: Arrived at time 285.63204236619566, Tank Percentage: 31.082763641512983%
+Customer 58: Released from gas pump at time 286.23716194553094
+Customer 58: Finished at time 286.23716194553094
+Customer 20: Seized gas pump at time 286.23716194553094
+Customer 59: Released from gas pump at time 287.05410551789555
+Customer 59: Finished at time 287.05410551789555
+Customer 60: Seized gas pump at time 287.05410551789555
+Customer 63: Arrived at time 293.6527225365679, Tank Percentage: 36.55806860517925%
+Customer 60: Released from gas pump at time 295.2332204996885
+Customer 60: Finished at time 295.2332204996885
+Customer 61: Seized gas pump at time 295.2332204996885
+Customer 64: Arrived at time 295.5692070648675, Tank Percentage: 30.401198362725847%
+Customer 65: Arrived at time 295.7889693392741, Tank Percentage: 23.93374186992428%
+Customer 20: Released from gas pump at time 295.85022422247135
+Customer 20: Finished at time 295.85022422247135
+Customer 21: Arrived at time 295.85022422247135, Tank Percentage: 6.057219317532803%
+Customer 62: Seized gas pump at time 295.85022422247135
+Customer 61: Released from gas pump at time 300.6310391754026
+Customer 61: Finished at time 300.6310391754026
+Customer 63: Seized gas pump at time 300.6310391754026
+Customer 66: Arrived at time 301.7784828299705, Tank Percentage: 7.102688383161171%
+Customer 62: Released from gas pump at time 302.74194785832003
+Customer 62: Finished at time 302.74194785832003
+Customer 64: Seized gas pump at time 302.74194785832003
+Customer 63: Released from gas pump at time 306.97523231488464
+Customer 63: Finished at time 306.97523231488464
+Customer 65: Seized gas pump at time 306.97523231488464
+Customer 64: Released from gas pump at time 309.70182802204744
+Customer 64: Finished at time 309.70182802204744
+Customer 21: Seized gas pump at time 309.70182802204744
+Customer 65: Released from gas pump at time 314.5818581278922
+Customer 65: Finished at time 314.5818581278922
+Customer 66: Seized gas pump at time 314.5818581278922
+Customer 21: Released from gas pump at time 319.09610609029414
+Customer 21: Finished at time 319.09610609029414
+Customer 22: Arrived at time 319.09610609029414, Tank Percentage: 8.917245733842444%
+Customer 22: Seized gas pump at time 319.09610609029414
+Customer 67: Arrived at time 322.26684599065425, Tank Percentage: 37.86839830562662%
+Customer 66: Released from gas pump at time 323.8715892895761
+Customer 66: Finished at time 323.8715892895761
+Customer 67: Seized gas pump at time 323.8715892895761
+Customer 22: Released from gas pump at time 328.2043815169099
+Customer 22: Finished at time 328.2043815169099
+Customer 23: Arrived at time 328.2043815169099, Tank Percentage: 33.84895440926339%
+Customer 23: Seized gas pump at time 328.2043815169099
+Customer 68: Arrived at time 329.60487039567244, Tank Percentage: 15.097793782323855%
+Customer 67: Released from gas pump at time 330.08474945901344
+Customer 67: Finished at time 330.08474945901344
+Customer 68: Seized gas pump at time 330.08474945901344
+Customer 23: Released from gas pump at time 334.81948607598355
+Customer 23: Finished at time 334.81948607598355
+Customer 24: Arrived at time 334.81948607598355, Tank Percentage: 7.618563100273818%
+Customer 24: Seized gas pump at time 334.81948607598355
+Customer 68: Released from gas pump at time 338.57497008078104
+Customer 68: Finished at time 338.57497008078104
+Customer 24: Released from gas pump at time 344.05762976595616
+Customer 24: Finished at time 344.05762976595616
+Customer 25: Arrived at time 344.05762976595616, Tank Percentage: 45.50546036305152%
+Customer 25: Seized gas pump at time 344.05762976595616
+Customer 69: Arrived at time 348.78159976619907, Tank Percentage: 32.460389698199144%
+Customer 69: Seized gas pump at time 348.78159976619907
+Customer 25: Released from gas pump at time 349.507083729651
+Customer 25: Finished at time 349.507083729651
+Customer 26: Arrived at time 349.507083729651, Tank Percentage: 31.65183614161814%
+Customer 26: Seized gas pump at time 349.507083729651
+Customer 70: Arrived at time 351.1424390810994, Tank Percentage: 19.531192973937568%
+Customer 69: Released from gas pump at time 355.5355607963792
+Customer 69: Finished at time 355.5355607963792
+Customer 70: Seized gas pump at time 355.5355607963792
+Customer 26: Released from gas pump at time 356.3419001154892
+Customer 26: Finished at time 356.3419001154892
+Customer 27: Arrived at time 356.3419001154892, Tank Percentage: 27.202799213564138%
+Customer 27: Seized gas pump at time 356.3419001154892
+Customer 71: Arrived at time 356.3664513130224, Tank Percentage: 22.632428138130372%
+Customer 72: Arrived at time 360.0845475664281, Tank Percentage: 25.24690860980192%
+Customer 70: Released from gas pump at time 363.5824414989854
+Customer 70: Finished at time 363.5824414989854
+Customer 71: Seized gas pump at time 363.5824414989854
+Customer 27: Released from gas pump at time 363.6216201941328
+Customer 27: Finished at time 363.6216201941328
+Customer 28: Arrived at time 363.6216201941328, Tank Percentage: 35.68659839235882%
+Customer 72: Seized gas pump at time 363.6216201941328
+Customer 73: Arrived at time 370.19177038330423, Tank Percentage: 18.558974792856542%
+Customer 72: Released from gas pump at time 371.0969293331526
+Customer 72: Finished at time 371.0969293331526
+Customer 28: Seized gas pump at time 371.0969293331526
+Customer 71: Released from gas pump at time 371.3191986851724
+Customer 71: Finished at time 371.3191986851724
+Customer 73: Seized gas pump at time 371.3191986851724
+Customer 28: Released from gas pump at time 377.52826949391675
+Customer 28: Finished at time 377.52826949391675
+Customer 29: Arrived at time 377.52826949391675, Tank Percentage: 13.738783129029548%
+Customer 29: Seized gas pump at time 377.52826949391675
+Customer 73: Released from gas pump at time 379.46330120588675
+Customer 73: Finished at time 379.46330120588675
+Customer 74: Arrived at time 385.4980788824814, Tank Percentage: 9.937085135486868%
+Customer 74: Seized gas pump at time 385.4980788824814
+Customer 29: Released from gas pump at time 386.1543911810138
+Customer 29: Finished at time 386.1543911810138
+Customer 30: Arrived at time 386.1543911810138, Tank Percentage: 49.76958763919518%
+Customer 30: Seized gas pump at time 386.1543911810138
+Customer 75: Arrived at time 388.6640826067369, Tank Percentage: 20.344292245640478%
+Customer 76: Arrived at time 389.30524869097366, Tank Percentage: 3.3603141002740475%
+Customer 30: Released from gas pump at time 391.1774324170943
+Customer 30: Finished at time 391.1774324170943
+Customer 31: Arrived at time 391.1774324170943, Tank Percentage: 15.314335335597363%
+Customer 75: Seized gas pump at time 391.1774324170943
+Customer 77: Arrived at time 392.5477253192463, Tank Percentage: 28.67016291263485%
+Customer 74: Released from gas pump at time 394.5043703689327
+Customer 74: Finished at time 394.5043703689327
+Customer 76: Seized gas pump at time 394.5043703689327
+Customer 75: Released from gas pump at time 399.1430031925302
+Customer 75: Finished at time 399.1430031925302
+Customer 31: Seized gas pump at time 399.1430031925302
+Customer 78: Arrived at time 403.94100093226245, Tank Percentage: 5.19532694815728%
+Customer 76: Released from gas pump at time 404.1683389589053
+Customer 76: Finished at time 404.1683389589053
+Customer 77: Seized gas pump at time 404.1683389589053
+Customer 31: Released from gas pump at time 407.6115696589705
+Customer 31: Finished at time 407.6115696589705
+Customer 32: Arrived at time 407.6115696589705, Tank Percentage: 13.604665578553144%
+Customer 78: Seized gas pump at time 407.6115696589705
+Customer 79: Arrived at time 408.74098977421363, Tank Percentage: 7.293241927270655%
+Customer 80: Arrived at time 410.0253223525201, Tank Percentage: 19.95749214258766%
+Customer 77: Released from gas pump at time 411.3013226676418
+Customer 77: Finished at time 411.3013226676418
+Customer 32: Seized gas pump at time 411.3013226676418
+Customer 81: Arrived at time 412.30382407840517, Tank Percentage: 23.0814954954142%
+Customer 78: Released from gas pump at time 417.0920369641548
+Customer 78: Finished at time 417.0920369641548
+Customer 79: Seized gas pump at time 417.0920369641548
+Customer 82: Arrived at time 418.5439656773201, Tank Percentage: 12.8221606369748%
+Customer 83: Arrived at time 419.28898085177264, Tank Percentage: 32.35493536686166%
+Customer 32: Released from gas pump at time 419.94085610978647
+Customer 32: Finished at time 419.94085610978647
+Customer 33: Arrived at time 419.94085610978647, Tank Percentage: 48.383914580924106%
+Customer 80: Seized gas pump at time 419.94085610978647
+Customer 84: Arrived at time 424.5600954235384, Tank Percentage: 9.361852772553924%
+Customer 79: Released from gas pump at time 426.3627127714277
+Customer 79: Finished at time 426.3627127714277
+Customer 81: Seized gas pump at time 426.3627127714277
+Customer 85: Arrived at time 427.68547482402045, Tank Percentage: 46.880835146159434%
+Customer 80: Released from gas pump at time 427.9451068955277
+Customer 80: Finished at time 427.9451068955277
+Customer 82: Seized gas pump at time 427.9451068955277
+Customer 86: Arrived at time 429.1203269083549, Tank Percentage: 30.073327997150763%
+Customer 87: Arrived at time 429.2936285757085, Tank Percentage: 34.424072579225964%
+Customer 81: Released from gas pump at time 434.05456322188627
+Customer 81: Finished at time 434.05456322188627
+Customer 83: Seized gas pump at time 434.05456322188627
+Customer 88: Arrived at time 434.1866892260683, Tank Percentage: 38.036711029876244%
+Customer 89: Arrived at time 435.3320809860852, Tank Percentage: 25.15003202761562%
+Customer 82: Released from gas pump at time 436.6628908318302
+Customer 82: Finished at time 436.6628908318302
+Customer 33: Seized gas pump at time 436.6628908318302
+Customer 83: Released from gas pump at time 440.8190696852001
+Customer 83: Finished at time 440.8190696852001
+Customer 84: Seized gas pump at time 440.8190696852001
+Customer 90: Arrived at time 441.4243652047753, Tank Percentage: 32.04217083148887%
+Customer 33: Released from gas pump at time 441.8244993737378
+Customer 33: Finished at time 441.8244993737378
+Customer 34: Arrived at time 441.8244993737378, Tank Percentage: 3.679081504480025%
+Customer 85: Seized gas pump at time 441.8244993737378
+Customer 91: Arrived at time 442.0559338263347, Tank Percentage: 25.85535559304172%
+Customer 85: Released from gas pump at time 447.1364158591219
+Customer 85: Finished at time 447.1364158591219
+Customer 86: Seized gas pump at time 447.1364158591219
+Customer 84: Released from gas pump at time 449.8828844079447
+Customer 84: Finished at time 449.8828844079447
+Customer 87: Seized gas pump at time 449.8828844079447
+Customer 86: Released from gas pump at time 454.1290830594068
+Customer 86: Finished at time 454.1290830594068
+Customer 88: Seized gas pump at time 454.1290830594068
+Customer 87: Released from gas pump at time 456.4404771500221
+Customer 87: Finished at time 456.4404771500221
+Customer 89: Seized gas pump at time 456.4404771500221
+Customer 92: Arrived at time 459.9452661840434, Tank Percentage: 12.646761041747546%
+Customer 88: Released from gas pump at time 460.3254119564192
+Customer 88: Finished at time 460.3254119564192
+Customer 90: Seized gas pump at time 460.3254119564192
+Customer 89: Released from gas pump at time 463.92547394726057
+Customer 89: Finished at time 463.92547394726057
+Customer 34: Seized gas pump at time 463.92547394726057
+Customer 90: Released from gas pump at time 467.1211948732703
+Customer 90: Finished at time 467.1211948732703
+Customer 91: Seized gas pump at time 467.1211948732703
+Customer 93: Arrived at time 470.71056090818803, Tank Percentage: 27.892017837170613%
+Customer 34: Released from gas pump at time 473.5575657968126
+Customer 34: Finished at time 473.5575657968126
+Customer 35: Arrived at time 473.5575657968126, Tank Percentage: 10.09523486428746%
+Customer 92: Seized gas pump at time 473.5575657968126
+Customer 91: Released from gas pump at time 474.53565931396616
+Customer 91: Finished at time 474.53565931396616
+Customer 93: Seized gas pump at time 474.53565931396616
+Customer 93: Released from gas pump at time 481.74645753024913
+Customer 93: Finished at time 481.74645753024913
+Customer 35: Seized gas pump at time 481.74645753024913
+Customer 94: Arrived at time 482.05736859823065, Tank Percentage: 13.599163831152982%
+Customer 92: Released from gas pump at time 482.2928896926378
+Customer 92: Finished at time 482.2928896926378
+Customer 94: Seized gas pump at time 482.2928896926378
+Customer 35: Released from gas pump at time 490.7369340438204
+Customer 35: Finished at time 490.7369340438204
+Customer 36: Arrived at time 490.7369340438204, Tank Percentage: 16.945451004517505%
+Customer 36: Seized gas pump at time 490.7369340438204
+Customer 94: Released from gas pump at time 490.9329733095225
+Customer 94: Finished at time 490.9329733095225
+Customer 95: Arrived at time 494.10163250399853, Tank Percentage: 28.861407535860938%
+Customer 95: Seized gas pump at time 494.10163250399853
+Customer 36: Released from gas pump at time 499.0423889433686
+Customer 36: Finished at time 499.0423889433686
+Customer 37: Arrived at time 499.0423889433686, Tank Percentage: 25.20803639340708%
+Customer 37: Seized gas pump at time 499.0423889433686
+Customer 96: Arrived at time 499.6311437842668, Tank Percentage: 29.31833648247212%
+Customer 95: Released from gas pump at time 501.2154917504124
+Customer 95: Finished at time 501.2154917504124
+Customer 96: Seized gas pump at time 501.2154917504124
+Customer 97: Arrived at time 503.4794626824527, Tank Percentage: 29.014611337920492%
+Customer 98: Arrived at time 504.21816731047585, Tank Percentage: 37.366175357116774%
+Customer 99: Arrived at time 506.4505406876277, Tank Percentage: 9.374548259316262%
+Customer 37: Released from gas pump at time 506.5215853040279
+Customer 37: Finished at time 506.5215853040279
+Customer 38: Arrived at time 506.5215853040279, Tank Percentage: 41.541372362922985%
+Customer 97: Seized gas pump at time 506.5215853040279
+Customer 96: Released from gas pump at time 508.2836581021652
+Customer 96: Finished at time 508.2836581021652
+Customer 98: Seized gas pump at time 508.2836581021652
+Customer 97: Released from gas pump at time 513.6201241702358
+Customer 97: Finished at time 513.6201241702358
+Customer 99: Seized gas pump at time 513.6201241702358
+Customer 98: Released from gas pump at time 514.5470405664535
+Customer 98: Finished at time 514.5470405664535
+Customer 38: Seized gas pump at time 514.5470405664535
+Customer 100: Arrived at time 519.501541022005, Tank Percentage: 3.798571857691546%
+Customer 38: Released from gas pump at time 520.3929033301612
+Customer 38: Finished at time 520.3929033301612
+Customer 39: Arrived at time 520.3929033301612, Tank Percentage: 3.288429067673121%
+Customer 100: Seized gas pump at time 520.3929033301612
+Customer 99: Released from gas pump at time 522.6826693443043
+Customer 99: Finished at time 522.6826693443043
+Customer 39: Seized gas pump at time 522.6826693443043
+Customer 100: Released from gas pump at time 530.013046144392
+Customer 100: Finished at time 530.013046144392
+Customer 39: Released from gas pump at time 532.3538264375369
+Customer 39: Finished at time 532.3538264375369
+Customer 40: Arrived at time 532.3538264375369, Tank Percentage: 45.214581339124955%
+Customer 40: Seized gas pump at time 532.3538264375369
+Customer 40: Released from gas pump at time 537.8323683036244
+Customer 40: Finished at time 537.8323683036244
+Customer 41: Arrived at time 537.8323683036244, Tank Percentage: 35.26413003224441%
+Customer 41: Seized gas pump at time 537.8323683036244
+Customer 41: Released from gas pump at time 544.3059553004
+Customer 41: Finished at time 544.3059553004
+Customer 42: Arrived at time 544.3059553004, Tank Percentage: 18.08565304298222%
+Customer 42: Seized gas pump at time 544.3059553004
+Customer 42: Released from gas pump at time 552.4973899961018
+Customer 42: Finished at time 552.4973899961018
+Customer 43: Arrived at time 552.4973899961018, Tank Percentage: 13.618173963508484%
+Customer 43: Seized gas pump at time 552.4973899961018
+Customer 43: Released from gas pump at time 561.135572599751
+Customer 43: Finished at time 561.135572599751
+Customer 44: Arrived at time 561.135572599751, Tank Percentage: 42.512291745903916%
+Customer 44: Seized gas pump at time 561.135572599751
+Customer 44: Released from gas pump at time 566.8843434251605
+Customer 44: Finished at time 566.8843434251605
+Customer 45: Arrived at time 566.8843434251605, Tank Percentage: 43.694130702694295%
+Customer 45: Seized gas pump at time 566.8843434251605
+Customer 45: Released from gas pump at time 572.5149303548911
+Customer 45: Finished at time 572.5149303548911
+Customer 46: Arrived at time 572.5149303548911, Tank Percentage: 45.17846767511134%
+Customer 46: Seized gas pump at time 572.5149303548911
+Customer 46: Released from gas pump at time 577.99708358738
+Customer 46: Finished at time 577.99708358738
+Customer 47: Arrived at time 577.99708358738, Tank Percentage: 43.2175824557358%
+Customer 47: Seized gas pump at time 577.99708358738
+Customer 47: Released from gas pump at time 583.6753253418063
+Customer 47: Finished at time 583.6753253418063
+Customer 48: Arrived at time 583.6753253418063, Tank Percentage: 32.2863509294422%
+Customer 48: Seized gas pump at time 583.6753253418063
+Customer 48: Released from gas pump at time 590.4466902488621
+Customer 48: Finished at time 590.4466902488621
+Customer 49: Arrived at time 590.4466902488621, Tank Percentage: 25.85110265160656%
+Customer 49: Seized gas pump at time 590.4466902488621
+Customer 49: Released from gas pump at time 597.8615799837014
+Customer 49: Finished at time 597.8615799837014
+Customer 50: Arrived at time 597.8615799837014, Tank Percentage: 41.96770834024818%
+Customer 50: Seized gas pump at time 597.8615799837014
+Customer 50: Released from gas pump at time 603.6648091496766
+Customer 50: Finished at time 603.6648091496766
+Customer 51: Arrived at time 603.6648091496766, Tank Percentage: 28.384405998498874%
+Customer 51: Seized gas pump at time 603.6648091496766
+Customer 51: Released from gas pump at time 610.8263685498267
+Customer 51: Finished at time 610.8263685498267
+Customer 52: Arrived at time 610.8263685498267, Tank Percentage: 33.30521007804239%
+Customer 52: Seized gas pump at time 610.8263685498267
+Customer 52: Released from gas pump at time 617.4958475420225
+Customer 52: Finished at time 617.4958475420225
+Customer 53: Arrived at time 617.4958475420225, Tank Percentage: 2.6371953166901885%
+Customer 53: Seized gas pump at time 617.4958475420225
+Customer 53: Released from gas pump at time 627.2321280103534
+Customer 53: Finished at time 627.2321280103534
+Customer 54: Arrived at time 627.2321280103534, Tank Percentage: 19.87047579040098%
+Customer 54: Seized gas pump at time 627.2321280103534
+Customer 54: Released from gas pump at time 635.2450804313133
+Customer 54: Finished at time 635.2450804313133
+Customer 55: Arrived at time 635.2450804313133, Tank Percentage: 45.15872522649108%
+Customer 55: Seized gas pump at time 635.2450804313133
+Customer 55: Released from gas pump at time 640.7292079086642
+Customer 55: Finished at time 640.7292079086642
+Customer 56: Arrived at time 640.7292079086642, Tank Percentage: 15.111699985476513%
+Customer 56: Seized gas pump at time 640.7292079086642
+Customer 56: Released from gas pump at time 649.2180379101165
+Customer 56: Finished at time 649.2180379101165
+Customer 57: Arrived at time 649.2180379101165, Tank Percentage: 21.49339750472749%
+Customer 57: Seized gas pump at time 649.2180379101165
+Customer 57: Released from gas pump at time 657.0686981596438
+Customer 57: Finished at time 657.0686981596438
+Customer 58: Arrived at time 657.0686981596438, Tank Percentage: 25.61532841740321%
+Customer 58: Seized gas pump at time 657.0686981596438
+Customer 58: Released from gas pump at time 664.5071653179034
+Customer 58: Finished at time 664.5071653179034
+Customer 59: Arrived at time 664.5071653179034, Tank Percentage: 34.409182280833924%
+Customer 59: Seized gas pump at time 664.5071653179034
+Customer 59: Released from gas pump at time 671.06624708982
+Customer 59: Finished at time 671.06624708982
+Customer 60: Arrived at time 671.06624708982, Tank Percentage: 39.47591195125603%
+Customer 60: Seized gas pump at time 671.06624708982
+Customer 60: Released from gas pump at time 677.1186558946944
+Customer 60: Finished at time 677.1186558946944
+Customer 61: Arrived at time 677.1186558946944, Tank Percentage: 25.152222542209003%
+Customer 61: Seized gas pump at time 677.1186558946944
+Customer 61: Released from gas pump at time 684.6034336404734
+Customer 61: Finished at time 684.6034336404734
+Customer 62: Arrived at time 684.6034336404734, Tank Percentage: 31.092261805956845%
+Customer 62: Seized gas pump at time 684.6034336404734
+Customer 62: Released from gas pump at time 691.4942074598778
+Customer 62: Finished at time 691.4942074598778
+Customer 63: Arrived at time 691.4942074598778, Tank Percentage: 26.696946616951607%
+Customer 63: Seized gas pump at time 691.4942074598778
+Customer 63: Released from gas pump at time 698.8245127981826
+Customer 63: Finished at time 698.8245127981826
+Customer 64: Arrived at time 698.8245127981826, Tank Percentage: 5.32596688871641%
+Customer 64: Seized gas pump at time 698.8245127981826
+Customer 64: Released from gas pump at time 708.2919161093109
+Customer 64: Finished at time 708.2919161093109
+Customer 65: Arrived at time 708.2919161093109, Tank Percentage: 37.95088337426054%
+Customer 65: Seized gas pump at time 708.2919161093109
+Customer 65: Released from gas pump at time 714.4968277718849
+Customer 65: Finished at time 714.4968277718849
+Customer 66: Arrived at time 714.4968277718849, Tank Percentage: 43.165285366878514%
+Customer 66: Seized gas pump at time 714.4968277718849
+Customer 66: Released from gas pump at time 720.180299235197
+Customer 66: Finished at time 720.180299235197
+Customer 67: Arrived at time 720.180299235197, Tank Percentage: 15.56639559527086%
+Customer 67: Seized gas pump at time 720.180299235197
+Customer 67: Released from gas pump at time 728.62365967567
+Customer 67: Finished at time 728.62365967567
+Customer 68: Arrived at time 728.62365967567, Tank Percentage: 44.363182716786824%
+Customer 68: Seized gas pump at time 728.62365967567
+Customer 68: Released from gas pump at time 734.1873414039912
+Customer 68: Finished at time 734.1873414039912
+Customer 69: Arrived at time 734.1873414039912, Tank Percentage: 11.716135914045545%
+Customer 69: Seized gas pump at time 734.1873414039912
+Customer 69: Released from gas pump at time 743.0157278125866
+Customer 69: Finished at time 743.0157278125866
+Customer 70: Arrived at time 743.0157278125866, Tank Percentage: 34.62311505049228%
+Customer 70: Seized gas pump at time 743.0157278125866
+Customer 70: Released from gas pump at time 749.5534163075374
+Customer 70: Finished at time 749.5534163075374
+Customer 71: Arrived at time 749.5534163075374, Tank Percentage: 8.42618499973139%
+Customer 71: Seized gas pump at time 749.5534163075374
+Customer 71: Released from gas pump at time 758.7107978075643
+Customer 71: Finished at time 758.7107978075643
+Customer 72: Arrived at time 758.7107978075643, Tank Percentage: 30.651573874258105%
+Customer 72: Seized gas pump at time 758.7107978075643
+Customer 72: Released from gas pump at time 765.6456404201385
+Customer 72: Finished at time 765.6456404201385
+Customer 73: Arrived at time 765.6456404201385, Tank Percentage: 20.824060644277864%
+Customer 73: Seized gas pump at time 765.6456404201385
+Customer 73: Released from gas pump at time 773.5632343557107
+Customer 73: Finished at time 773.5632343557107
+Customer 74: Arrived at time 773.5632343557107, Tank Percentage: 3.906391899439432%
+Customer 74: Seized gas pump at time 773.5632343557107
+Customer 74: Released from gas pump at time 783.1725951657668
+Customer 74: Finished at time 783.1725951657668
+Customer 75: Arrived at time 783.1725951657668, Tank Percentage: 27.205192493382363%
+Customer 75: Seized gas pump at time 783.1725951657668
+Customer 75: Released from gas pump at time 790.4520759164285
+Customer 75: Finished at time 790.4520759164285
+Customer 76: Arrived at time 790.4520759164285, Tank Percentage: 47.41229915063362%
+Customer 76: Seized gas pump at time 790.4520759164285
+Customer 76: Released from gas pump at time 795.7108460013651
+Customer 76: Finished at time 795.7108460013651
+Customer 77: Arrived at time 795.7108460013651, Tank Percentage: 24.007398950255514%
+Customer 77: Seized gas pump at time 795.7108460013651
+Customer 77: Released from gas pump at time 803.3101061063395
+Customer 77: Finished at time 803.3101061063395
+Customer 78: Arrived at time 803.3101061063395, Tank Percentage: 8.495301247932453%
+Customer 78: Seized gas pump at time 803.3101061063395
+Customer 78: Released from gas pump at time 812.4605759815463
+Customer 78: Finished at time 812.4605759815463
+Customer 79: Arrived at time 812.4605759815463, Tank Percentage: 22.010739056668037%
+Customer 79: Seized gas pump at time 812.4605759815463
+Customer 79: Released from gas pump at time 820.2595020758795
+Customer 79: Finished at time 820.2595020758795
+Customer 80: Arrived at time 820.2595020758795, Tank Percentage: 39.14539688123074%
+Customer 80: Seized gas pump at time 820.2595020758795
+Customer 80: Released from gas pump at time 826.3449623877564
+Customer 80: Finished at time 826.3449623877564
+Customer 81: Arrived at time 826.3449623877564, Tank Percentage: 5.286676181935701%
+Customer 81: Seized gas pump at time 826.3449623877564
+Customer 81: Released from gas pump at time 835.8162947695628
+Customer 81: Finished at time 835.8162947695628
+Customer 82: Arrived at time 835.8162947695628, Tank Percentage: 42.49768910645417%
+Customer 82: Seized gas pump at time 835.8162947695628
+Customer 82: Released from gas pump at time 841.5665258589173
+Customer 82: Finished at time 841.5665258589173
+Customer 83: Arrived at time 841.5665258589173, Tank Percentage: 3.560923218055195%
+Customer 83: Seized gas pump at time 841.5665258589173
+Customer 83: Released from gas pump at time 851.2104335371118
+Customer 83: Finished at time 851.2104335371118
+Customer 84: Arrived at time 851.2104335371118, Tank Percentage: 29.75291440077384%
+Customer 84: Seized gas pump at time 851.2104335371118
+Customer 84: Released from gas pump at time 858.2351420970344
+Customer 84: Finished at time 858.2351420970344
+Customer 85: Arrived at time 858.2351420970344, Tank Percentage: 1.1008483522330637%
+Customer 85: Seized gas pump at time 858.2351420970344
+Customer 85: Released from gas pump at time 868.1250572618111
+Customer 85: Finished at time 868.1250572618111
+Customer 86: Arrived at time 868.1250572618111, Tank Percentage: 16.097166898179545%
+Customer 86: Seized gas pump at time 868.1250572618111
+Customer 86: Released from gas pump at time 876.5153405719932
+Customer 86: Finished at time 876.5153405719932
+Customer 87: Arrived at time 876.5153405719932, Tank Percentage: 4.049027499378638%
+Customer 87: Seized gas pump at time 876.5153405719932
+Customer 87: Released from gas pump at time 886.1104378220554
+Customer 87: Finished at time 886.1104378220554
+Customer 88: Arrived at time 886.1104378220554, Tank Percentage: 20.767701619698375%
+Customer 88: Seized gas pump at time 886.1104378220554
+Customer 88: Released from gas pump at time 894.0336676600855
+Customer 88: Finished at time 894.0336676600855
+Customer 89: Arrived at time 894.0336676600855, Tank Percentage: 12.402007675688182%
+Customer 89: Seized gas pump at time 894.0336676600855
+Customer 89: Released from gas pump at time 902.7934668925167
+Customer 89: Finished at time 902.7934668925167
+Customer 90: Arrived at time 902.7934668925167, Tank Percentage: 4.3155534597888785%
+Customer 90: Seized gas pump at time 902.7934668925167
+Customer 90: Released from gas pump at time 912.3619115465378
+Customer 90: Finished at time 912.3619115465378
+Customer 91: Arrived at time 912.3619115465378, Tank Percentage: 21.344726190071466%
+Customer 91: Seized gas pump at time 912.3619115465378
+Customer 91: Released from gas pump at time 920.2274389275307
+Customer 91: Finished at time 920.2274389275307
+Customer 92: Arrived at time 920.2274389275307, Tank Percentage: 47.78072698188506%
+Customer 92: Seized gas pump at time 920.2274389275307
+Customer 92: Released from gas pump at time 925.4493662293422
+Customer 92: Finished at time 925.4493662293422
+Customer 93: Arrived at time 925.4493662293422, Tank Percentage: 15.850504918459196%
+Customer 93: Seized gas pump at time 925.4493662293422
+Customer 93: Released from gas pump at time 933.8643157374963
+Customer 93: Finished at time 933.8643157374963
+Customer 94: Arrived at time 933.8643157374963, Tank Percentage: 41.24859117266468%
+Customer 94: Seized gas pump at time 933.8643157374963
+Customer 94: Released from gas pump at time 939.7394566202298
+Customer 94: Finished at time 939.7394566202298
+Customer 95: Arrived at time 939.7394566202298, Tank Percentage: 49.866544101115714%
+Customer 95: Seized gas pump at time 939.7394566202298
+Customer 95: Released from gas pump at time 944.7528022101183
+Customer 95: Finished at time 944.7528022101183
+Customer 96: Arrived at time 944.7528022101183, Tank Percentage: 13.708057207656898%
+Customer 96: Seized gas pump at time 944.7528022101183
+Customer 96: Released from gas pump at time 953.3819964893526
+Customer 96: Finished at time 953.3819964893526
+Customer 97: Arrived at time 953.3819964893526, Tank Percentage: 42.81665533512471%
+Customer 97: Seized gas pump at time 953.3819964893526
+Customer 97: Released from gas pump at time 959.10033095584
+Customer 97: Finished at time 959.10033095584
+Customer 98: Arrived at time 959.10033095584, Tank Percentage: 19.350822287849795%
+Customer 98: Seized gas pump at time 959.10033095584
+Customer 98: Released from gas pump at time 967.1652487270551
+Customer 98: Finished at time 967.1652487270551
+Customer 99: Arrived at time 967.1652487270551, Tank Percentage: 6.763301118380349%
+Customer 99: Seized gas pump at time 967.1652487270551
+Customer 99: Released from gas pump at time 976.488918615217
+Customer 99: Finished at time 976.488918615217
+Customer 100: Arrived at time 976.488918615217, Tank Percentage: 28.071274452846517%
+Customer 100: Seized gas pump at time 976.488918615217
+Customer 100: Released from gas pump at time 983.6817911699324
+Customer 100: Finished at time 983.6817911699324
+Customer 101: Arrived at time 983.6817911699324, Tank Percentage: 45.15962438045719%
+Customer 101: Seized gas pump at time 983.6817911699324
+Customer 101: Released from gas pump at time 989.1658287318867
+Customer 101: Finished at time 989.1658287318867
+Customer 102: Arrived at time 989.1658287318867, Tank Percentage: 48.038814284354196%
+Customer 102: Seized gas pump at time 989.1658287318867
+Customer 102: Released from gas pump at time 994.3619473034513
+Customer 102: Finished at time 994.3619473034513
+Customer 103: Arrived at time 994.3619473034513, Tank Percentage: 16.317314812236916%
+Customer 103: Seized gas pump at time 994.3619473034513
+     start_time    end_time  activity_time  waiting_time
+0      0.000000    9.179619       9.179619  0.000000e+00
+1      9.179619   27.674994       6.076494  1.241888e+01
+2     27.674994   43.595797       6.023411  9.897391e+00
+3     43.595797   61.726084       9.865108  8.265179e+00
+4     61.726084   78.495739       9.367408  7.402247e+00
+..          ...         ...            ...           ...
+97   959.100331  967.165249       8.064918  3.019807e-14
+98   967.165249  976.488919       9.323670 -3.375078e-14
+99   976.488919  983.681791       7.192873 -1.154632e-14
+100  983.681791  989.165829       5.484038  4.263256e-14
+101  989.165829  994.361947       5.196119  4.440892e-14
+
+[102 rows x 4 columns]
+[50]
+0s
+import random
+shop_data_df.loc[shop_data_df['waiting_time'] < 0, 'waiting_time'] = 0
+shop_data_df['Balking'] = np.where(shop_data_df['waiting_time'] < random.uniform(0, 10), 0, 1)
+shop_data_df['Amount of gas in litres'] = shop_data_df['activity_time']* 10
+
+print(shop_data_df)
+
+shop_data_df.to_csv('GS_data_df_2.csv')
+output
+     start_time    end_time  activity_time  waiting_time  Balking  \
+0      0.000000    9.179619       9.179619  0.000000e+00        0   
+1      9.179619   27.674994       6.076494  1.241888e+01        1   
+2     27.674994   43.595797       6.023411  9.897391e+00        1   
+3     43.595797   61.726084       9.865108  8.265179e+00        1   
+4     61.726084   78.495739       9.367408  7.402247e+00        1   
+..          ...         ...            ...           ...      ...   
+97   959.100331  967.165249       8.064918  3.019807e-14        0   
+98   967.165249  976.488919       9.323670  0.000000e+00        0   
+99   976.488919  983.681791       7.192873  0.000000e+00        0   
+100  983.681791  989.165829       5.484038  4.263256e-14        0   
+101  989.165829  994.361947       5.196119  4.440892e-14        0   
+
+     Amount of gas in litres  
+0                  91.796192  
+1                  60.764941  
+2                  60.234111  
+3                  98.651083  
+4                  93.674085  
+..                       ...  
+97                 80.649178  
+98                 93.236699  
+99                 71.928726  
+100                54.840376  
+101                51.961186  
+
+[102 rows x 6 columns]
+[51]
+0s
+shop_data_df.info()
+
+output
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 102 entries, 0 to 101
+Data columns (total 6 columns):
+ #   Column                   Non-Null Count  Dtype  
+---  ------                   --------------  -----  
+ 0   start_time               102 non-null    float64
+ 1   end_time                 102 non-null    float64
+ 2   activity_time            102 non-null    float64
+ 3   waiting_time             102 non-null    float64
+ 4   Balking                  102 non-null    int64  
+ 5   Amount of gas in litres  102 non-null    float64
+dtypes: float64(5), int64(1)
+memory usage: 4.9 KB
+[52]
+0s
+shop_data_df.head()
+output
+
+[53]
+0s
+##calculatin the total amount of gas sold and how that translates to money
+## based on the average current rate on 11/30/2023
+## the reason gas prices are so low is too much supply less use during winter months
+conversion_factor = 0.95  # based on the average current rate on 11/30/2023 in th US
+profit_df = pd.DataFrame({
+    'gas_sold': shop_data_df['Amount of gas in litres'],
+    '$_amount_of_gas': shop_data_df['Amount of gas in litres'] * conversion_factor
+})
+
+print(profit_df)
+
+
+output
+      gas_sold  $_amount_of_gas
+0    91.796192        87.206382
+1    60.764941        57.726694
+2    60.234111        57.222405
+3    98.651083        93.718529
+4    93.674085        88.990380
+..         ...              ...
+97   80.649178        76.616719
+98   93.236699        88.574864
+99   71.928726        68.332289
+100  54.840376        52.098357
+101  51.961186        49.363126
+
+[102 rows x 2 columns]
+[54]
+0s
+wholesale_price_of_gas = .7 ## this is an estimate
+
+profit_df['profit'] = profit_df['gas_sold'] * (conversion_factor- wholesale_price_of_gas)
+
+profit_df
+output
+
+[55]
+0s
+profit = sum(profit_df['profit'])
+profit
+profit_df.to_csv('Profit_for_2_pumps.csv')
+print('The amount of profit per day:', profit)
+output
+The amount of profit per day: 1901.5340095713082
