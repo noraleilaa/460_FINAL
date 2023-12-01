@@ -6,6 +6,8 @@ Provided is the code for the final simulation project. Balking is included.
 
 -GS_2_pumps.txt-----------------------------------------------Our predictions for 2 pumps
 
+-GS_3_pumps.txt-----------------------------------------------Our predictions for 3 pumps
+
 -GS_4_pumps.txt-----------------------------------------------Our predictions for 4 pumps 
 
 -GasStation_FINAL.ipynb--------------------------------------Our code that simulates the problem </n>
